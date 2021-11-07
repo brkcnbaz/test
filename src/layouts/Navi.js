@@ -44,7 +44,7 @@ export default function Navi() {
                                 <div class="content">
                                     <div class="description">
 
-                                        <i class="icon bitcoin">&nbsp;Prices</i>
+                                        <i class="icon bitcoin">itcoin&nbsp;Prices</i>
 
                                     </div>
                                 </div>
